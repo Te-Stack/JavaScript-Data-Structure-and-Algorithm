@@ -5,7 +5,7 @@ function Circle(raduis){
     }
 }
 
-const circle =new Circle(10)
+const circle =new Circle(11)
 
 for(let key in circle){
     if (typeof circle[key] !== 'function'){
