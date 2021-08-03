@@ -1,6 +1,6 @@
 var list = ["Quincy","Anointed","Stanley"]
 var number = [1,2,3]
-var dict  = [1,1,3]
+var dict  = [1,5,3]
 
 /*
 the Spread Operator ... is used after a function is called while the rest operator ... is used after a function is called.
