@@ -4,7 +4,7 @@ a boolean value in a callback function
 */
 
 function boss(){
-    console.log("this is a the main function")
+    console.log("this is a the main functions")
 
     function smallboy(){
         return true
