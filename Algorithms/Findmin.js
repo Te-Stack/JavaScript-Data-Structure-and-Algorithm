@@ -3,7 +3,7 @@
 nums = [1,2,3,4,5]
 
 function find_min(nums) {
-    let min_num = Number()
+    let min_num = Number
     for (let num of nums) {
             if(num < min_num) {
                 min_num = num
