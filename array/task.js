@@ -15,3 +15,8 @@ function votersAgeCheckers(age){
 
 console.log(votersAgeCheckers(35))
 console.log(votersAgeCheckers(10))
+
+
+var a = ['dog', 'cat', 'hen'];
+a[100] = 'fox';
+console.log(a.length);
