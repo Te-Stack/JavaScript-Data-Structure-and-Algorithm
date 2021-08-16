@@ -9,3 +9,4 @@ let diff = function (x, y) {
 
 console.log(sum(10, 20))
 console.log(diff(10, 20))
+console.log(diff(6%2))
