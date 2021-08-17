@@ -11,7 +11,7 @@ console.log(
 
 var quincy = {
     age:42,
-    town:"Saepele"
+    town:"Sapele"
     
 }
 
