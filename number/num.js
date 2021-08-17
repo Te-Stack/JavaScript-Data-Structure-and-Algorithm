@@ -15,6 +15,7 @@ var quincy = {
     
 }
 
+
 console.log(quincy.age);
 
 console.log(Number.isInteger(42));
@@ -48,3 +49,5 @@ var n = String([1,2,3]);
 console.log(n);
 
 console.log(Symbol("1"))
+
+
