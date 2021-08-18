@@ -21,6 +21,7 @@ console.log(quincy.age);
 console.log(Number.isInteger(42));
 
 
+
 var cup = [1,2,3];
 var ball= cup;
 
