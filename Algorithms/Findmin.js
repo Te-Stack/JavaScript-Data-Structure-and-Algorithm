@@ -1,6 +1,6 @@
 // Finding The Minimum number in an array
 
-nums = [1,2,3,4,5]
+nums = [1,2,3,4,5,6]
 
 function find_min(nums) {
     let min_num = Number
