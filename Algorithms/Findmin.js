@@ -2,6 +2,7 @@
 
 nums = [1,2,3,4,5,6,7,10]
 
+
 function find_min(nums) {
     let min_num = Number
     for (let num of nums) {
@@ -11,5 +12,6 @@ function find_min(nums) {
     }
     return min_num
 }
+
 
 console.log(find_min(nums))

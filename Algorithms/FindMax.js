@@ -12,4 +12,6 @@ function find_max(nums) {
     return max_num
 }
 
+
+
 console.log(find_max(nums))
