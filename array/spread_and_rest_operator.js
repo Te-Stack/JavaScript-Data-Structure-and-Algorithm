@@ -22,7 +22,7 @@ function hen(...dict){
     }))
 }
 
-hen(1,2,8)
+hen(1,2,4,8)
 
 
 
