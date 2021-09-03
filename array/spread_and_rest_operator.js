@@ -1,4 +1,4 @@
-var list = ["Quincy","Anointed","Stanley"]
+var list = ["Quincy","Anointed","Stanley",""]
 var number = [1,2,3]
 var dict  = [1,5,3]
 
