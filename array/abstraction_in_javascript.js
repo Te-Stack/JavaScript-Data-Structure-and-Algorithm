@@ -19,7 +19,7 @@ function Circle(radius){
         },
         set:function(value){
             if(!value.x || !value.y){
-                throw Error("Oboy u knowv that guy wey dem dey call Quincy na him cause this error na boss him bew o na him be boss but e be like say your error na invalid locATION")
+                throw Error("Oboy u knowv that guy wey dem dey call Quincy na him cause this error na boss him be o na him be boss but e be like say your error na invalid locATION lol")
             }
             defaultLocation = value
         }
