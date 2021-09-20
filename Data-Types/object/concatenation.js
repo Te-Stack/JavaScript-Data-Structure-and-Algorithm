@@ -11,7 +11,7 @@ console.log(ans)
 
 
 //string formatting
-let name = "Quincy Oghenetejiri"
+let name = "Ukumakube Quincy Oghenetejiri"
 let role = "Software Developer"
 let whoareyou = `My name is ${name} and i am a ${role}`
 console.log(whoareyou)
