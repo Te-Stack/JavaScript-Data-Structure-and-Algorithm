@@ -31,3 +31,5 @@ function egg(){
 }
 
 console.log(egg())
+
+console.log("The Secret of life is to have no Fear")
